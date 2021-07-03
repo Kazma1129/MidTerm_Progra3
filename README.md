@@ -1,4 +1,5 @@
 # gameJamProgra3
 Mid term progra 3
-Mario Solorza "/n"
+Mario Solorza
+
 Alvaro Sanchéz
