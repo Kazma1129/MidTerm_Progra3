@@ -164,3 +164,489 @@ Received Import Request.
 Start importing Assets/Scripts/GameStart.cs using Guid(dd5923f98b79bdc468a474d4b5085988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a085e42b7f900fc9adfb9838e6dcf4d') in 0.002638 seconds
   Import took 0.005727 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 257.434734 seconds.
+  path: Assets/Scripts/Prefabs
+  artifactKey: Guid(59d6294fb3c40b54dbb073e09b21b5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs using Guid(59d6294fb3c40b54dbb073e09b21b5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c0ba69db2f4431ad1228391bbfbd54') in 0.013775 seconds
+  Import took 0.020237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.204431 seconds.
+  path: Assets/Scripts/Prefabs/Circle (5).prefab
+  artifactKey: Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (5).prefab using Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd54c29e7a2c964d6475d2871380f1a') in 0.118985 seconds
+  Import took 0.122196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.601953 seconds.
+  path: Assets/Scripts/Prefabs/Circle (4).prefab
+  artifactKey: Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (4).prefab using Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f4d202cf072ee181e3fe59b1fafe1e') in 0.020657 seconds
+  Import took 0.025955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.911094 seconds.
+  path: Assets/Scripts/Prefabs/Circle (3).prefab
+  artifactKey: Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (3).prefab using Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66928014d89d3335a55ae19dfaf1303c') in 0.023118 seconds
+  Import took 0.029064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.451483 seconds.
+  path: Assets/Scripts/ArrowCommands.cs
+  artifactKey: Guid(892f91cf4032d314b9f52246bdf81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ArrowCommands.cs using Guid(892f91cf4032d314b9f52246bdf81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f512bc8fcdc92e6f131a4622b83904') in 0.014054 seconds
+  Import took 0.020157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002158 seconds.
+  path: Assets/Scripts/ArrowCommands.cs
+  artifactKey: Guid(892f91cf4032d314b9f52246bdf81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ArrowCommands.cs using Guid(892f91cf4032d314b9f52246bdf81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f512bc8fcdc92e6f131a4622b83904') in 0.003979 seconds
+  Import took 0.009934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.259975 seconds.
+  path: Assets/Scripts/ColorCircles.cs
+  artifactKey: Guid(23797eabf6a1d914c9bb43af747ae43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ColorCircles.cs using Guid(23797eabf6a1d914c9bb43af747ae43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf92aa8fe5591a905803bb9e27b5db0f') in 0.008132 seconds
+  Import took 0.011661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004314 seconds.
+  path: Assets/Scripts/ColorCircles.cs
+  artifactKey: Guid(23797eabf6a1d914c9bb43af747ae43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ColorCircles.cs using Guid(23797eabf6a1d914c9bb43af747ae43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf92aa8fe5591a905803bb9e27b5db0f') in 0.002596 seconds
+  Import took 0.005835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.619766 seconds.
+  path: Assets/Scripts/DestroyEnemy.cs
+  artifactKey: Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyEnemy.cs using Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fdc39e1293ee09f806131da886c39f') in 0.010225 seconds
+  Import took 0.015436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005557 seconds.
+  path: Assets/Scripts/DestroyEnemy.cs
+  artifactKey: Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyEnemy.cs using Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fdc39e1293ee09f806131da886c39f') in 0.002773 seconds
+  Import took 0.007620 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.028 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 2.235800 ms (FindLiveObjects: 0.215900 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.812400 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.229728 seconds.
+  path: Assets/Scripts/DestroyEnemy.cs
+  artifactKey: Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyEnemy.cs using Guid(5b853f538ffe4f34a8ae03d70953a747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cae513b774f3c61a5b7f155e6c4eefb') in 0.006925 seconds
+  Import took 0.011326 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 4.061000 ms (FindLiveObjects: 0.278300 ms CreateObjectMapping: 0.110500 ms MarkObjects: 3.467700 ms  DeleteObjects: 0.202100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001203 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 90.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2286.
+Total: 1.982900 ms (FindLiveObjects: 0.172500 ms CreateObjectMapping: 0.062500 ms MarkObjects: 1.641000 ms  DeleteObjects: 0.106100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 228.917929 seconds.
+  path: Assets/Scripts/Prefabs/Circle.prefab
+  artifactKey: Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle.prefab using Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7557f52f1674c4ddf98ffcf9e36b1a0') in 0.091842 seconds
+  Import took 0.096718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001922 seconds.
+  path: Assets/Scripts/Prefabs/Circle.prefab
+  artifactKey: Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle.prefab using Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7557f52f1674c4ddf98ffcf9e36b1a0') in 0.014641 seconds
+  Import took 0.018580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.086314 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84837bd66da4a9c95bd44fa693dedf3d') in 0.018495 seconds
+  Import took 0.023030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.333423 seconds.
+  path: Assets/Scripts/Prefabs/Circle (2).prefab
+  artifactKey: Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (2).prefab using Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d9c2d7d64716e06d041928cb98b989') in 0.019443 seconds
+  Import took 0.023735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.382773 seconds.
+  path: Assets/Scripts/Prefabs/Circle (3).prefab
+  artifactKey: Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (3).prefab using Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279a9b22e659c5110c73dcaa18d12200') in 0.016136 seconds
+  Import took 0.019321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002652 seconds.
+  path: Assets/Scripts/Prefabs/Circle (3).prefab
+  artifactKey: Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (3).prefab using Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279a9b22e659c5110c73dcaa18d12200') in 0.009437 seconds
+  Import took 0.012766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.175721 seconds.
+  path: Assets/Scripts/Prefabs/Circle (4).prefab
+  artifactKey: Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (4).prefab using Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1472dd4f4f826bfb78602466d578c92d') in 0.013454 seconds
+  Import took 0.017306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002012 seconds.
+  path: Assets/Scripts/Prefabs/Circle (4).prefab
+  artifactKey: Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (4).prefab using Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1472dd4f4f826bfb78602466d578c92d') in 0.012148 seconds
+  Import took 0.016517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.420988 seconds.
+  path: Assets/Scripts/Prefabs/Circle (5).prefab
+  artifactKey: Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (5).prefab using Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ac7057498241e47f9c460b141a988a') in 0.018645 seconds
+  Import took 0.022506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002684 seconds.
+  path: Assets/Scripts/Prefabs/Circle (5).prefab
+  artifactKey: Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (5).prefab using Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ac7057498241e47f9c460b141a988a') in 0.012875 seconds
+  Import took 0.017042 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 2.491100 ms (FindLiveObjects: 0.219000 ms CreateObjectMapping: 0.082900 ms MarkObjects: 2.076400 ms  DeleteObjects: 0.111500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001135 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.218 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 2.244500 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.844100 ms  DeleteObjects: 0.111900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.399810 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caaa38f0e67129327157003d9e53570') in 0.069101 seconds
+  Import took 0.076677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.328670 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66def2abffb03e6135951fae47ff6ebd') in 0.011411 seconds
+  Import took 0.016535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.837902 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16b19bf4f66e29b59818cb359c39422') in 0.015692 seconds
+  Import took 0.021184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015335 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16b19bf4f66e29b59818cb359c39422') in 0.010442 seconds
+  Import took 0.016294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.502563 seconds.
+  path: Assets/Scripts/Prefabs/Circle (1).prefab
+  artifactKey: Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (1).prefab using Guid(5defb5c623c61c549b24660932c769d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea4bbcabc3088aa4d9bedbfd27068c4') in 0.012165 seconds
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.296438 seconds.
+  path: Assets/Scripts/Prefabs/Circle (2).prefab
+  artifactKey: Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (2).prefab using Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583a4331cdc51d2e06a13c199088350e') in 0.012451 seconds
+  Import took 0.027579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.629346 seconds.
+  path: Assets/Scripts/Prefabs/Circle (2).prefab
+  artifactKey: Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (2).prefab using Guid(3ab4133f4248ac645978e43810d50c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b644c976b7fca52701ba681fa313a5a8') in 0.011949 seconds
+  Import took 0.023154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.599563 seconds.
+  path: Assets/Scripts/Prefabs/Circle (3).prefab
+  artifactKey: Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (3).prefab using Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5aba96644f270cc4be9e6da05b4ab53') in 0.013972 seconds
+  Import took 0.021221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.955356 seconds.
+  path: Assets/Scripts/Prefabs/Circle (3).prefab
+  artifactKey: Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (3).prefab using Guid(81cb8692f980ac74189e0c2eba15e5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf9faad46b81310cc9379750606ccf2') in 0.014141 seconds
+  Import took 0.021412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.714974 seconds.
+  path: Assets/Scripts/Prefabs/Circle (4).prefab
+  artifactKey: Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (4).prefab using Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595d6b7c564099fe1928af41cb6b56c7') in 0.015139 seconds
+  Import took 0.020224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.753573 seconds.
+  path: Assets/Scripts/Prefabs/Circle (4).prefab
+  artifactKey: Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (4).prefab using Guid(3ae52d4af47f1a94a9636e4c99d65245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64f63d7abf83a90ced67b8de6558575') in 0.016617 seconds
+  Import took 0.023842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.116620 seconds.
+  path: Assets/Scripts/Prefabs/Circle (5).prefab
+  artifactKey: Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (5).prefab using Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85bc41fe7d691d1d49f969be1d307f5') in 0.010875 seconds
+  Import took 0.019328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.164073 seconds.
+  path: Assets/Scripts/Prefabs/Circle (5).prefab
+  artifactKey: Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle (5).prefab using Guid(871e08f957b01dd49ad7800448d176c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f1de04a354b48c0b7fb85dc73bf21f') in 0.010932 seconds
+  Import took 0.016714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.345355 seconds.
+  path: Assets/Scripts/Prefabs/Circle.prefab
+  artifactKey: Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle.prefab using Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680cddb97c435c1a24b126529f3fb370') in 0.016408 seconds
+  Import took 0.022834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.863323 seconds.
+  path: Assets/Scripts/Prefabs/Circle.prefab
+  artifactKey: Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Prefabs/Circle.prefab using Guid(6f90156a79ff8d8458825c5be2f9f8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4f0e39557715e56a68f418086f9096') in 0.011698 seconds
+  Import took 0.018317 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 4.333800 ms (FindLiveObjects: 0.359400 ms CreateObjectMapping: 0.140000 ms MarkObjects: 3.660000 ms  DeleteObjects: 0.172500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001122 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 2.268400 ms (FindLiveObjects: 0.181500 ms CreateObjectMapping: 0.058900 ms MarkObjects: 1.930200 ms  DeleteObjects: 0.096600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001494 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.399500 ms (FindLiveObjects: 0.345500 ms CreateObjectMapping: 0.137100 ms MarkObjects: 2.739100 ms  DeleteObjects: 0.175700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 2.203000 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.058600 ms MarkObjects: 1.877400 ms  DeleteObjects: 0.112800 ms)
+

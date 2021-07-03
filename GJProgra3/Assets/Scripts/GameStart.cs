@@ -8,6 +8,7 @@ public class GameStart : MonoBehaviour
     public GameObject[] circles;
     private bool gamePause = true;
     public static int _currentIndex;
+    public float tiempoEntreSpawn;
 
     // Start is called before the first frame update
     void Start()
@@ -26,19 +27,17 @@ public class GameStart : MonoBehaviour
 
     IEnumerator ExampleCoroutine()
     {
-        //Print the time of when the function is first called.
-       // Debug.Log("Started Coroutine at timestamp : " + Time.time);
-
-        _currentIndex = Random.Range(0, circles.Length);
+       
+        // Elige cual circulo spawnear del array
+        _currentIndex = Random.Range(0, circles.Length); 
+        //instancea numero en base al resultado de la linea anterior
         Instantiate(circles[_currentIndex]);
 
-        //yield on a new YieldInstruction that waits for 5 seconds.
-        yield return new WaitForSeconds(1);
+        //espera por determinado numero de segundos //tiempo entre spawn
+        yield return new WaitForSeconds(tiempoEntreSpawn);
 
         gamePause = true;
 
 
-        //After we have waited 5 seconds print the time again.
-     //   Debug.Log("Finished Coroutine at timestamp : " + Time.time);
     }
 }
